@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Shawn
+        👋 Hi, I'm Shawn
       </h1>
     </summary>
   </ul>
@@ -25,9 +25,14 @@
  **<h3 align="left">A starter fullstack web developer, creating some web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
 
-- 💼 I'm currently working on:  💻 Developing my pofolio web with React and next 
-- 🌱 I'm currently learning: 📚 Unity 
-- 💬 Ask me about: ** JavaScript, React, MongoDB, and RESTful APIs**
+> 💼 I'm currently working on:
+>>Developing my pofolio web with React and next
+
+>  I'm currently learning:
+>>📚 Unity
+
+> Ask me about:
+>>JavaScript, React, MongoDB,Python and RESTful APIs
 
  **<h3 align="center">Skills</h3>**
 
