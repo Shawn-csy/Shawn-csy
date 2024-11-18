@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a>
 </p>
 
- **<h3 align="left">A starter fullstack web developer, creating some web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="left">A starter web developer, creating some web applications. Skilled in both front-end and back-end technologies, with user experience and performance optimization.</h3>**
 
 
 > 💼 I'm currently working on:
